@@ -8,7 +8,7 @@
     "templateVersion": "3.5.0"
   },
   "wazuh": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "revision": "00"
   },
   "main": "index.ts",
