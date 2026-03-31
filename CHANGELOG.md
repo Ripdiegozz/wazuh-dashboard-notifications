@@ -2,6 +2,12 @@
 
 All notable changes to the Wazuh dashboard notifications plugin will be documented in this file.
 
+## Wazuh dashboard v5.5.0 - OpenSearch Dashboards 3.5.0 - Revision 00
+
+### Added
+
+- Support for Wazuh 5.5.0
+
 ## Wazuh dashboard v5.4.0 - OpenSearch Dashboards 3.5.0 - Revision 00
 
 ### Added
