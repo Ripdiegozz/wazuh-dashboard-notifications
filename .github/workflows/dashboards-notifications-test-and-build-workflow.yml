@@ -12,7 +12,7 @@ on:
 
 env:
   PLUGIN_NAME: notifications-dashboards
-  NOTIFICATIONS_PLUGIN_VERSION: 'main'
+  NOTIFICATIONS_PLUGIN_VERSION: '5.5.0'
 
 jobs:
   tests:
